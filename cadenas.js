@@ -36,4 +36,8 @@ let nombre = "aLeJo";
 let nombreMayuscula = nombre.toUpperCase();
 let nombreMinuscula = nombre.toLowerCase();
 
-//
+// trim() -> elimina espacios
+let espacios = "    alejo   ";
+let sinEspacios = espacios.trim(); // "alejo"
+
+
